@@ -5,7 +5,7 @@
   
   <br><br>
 
-  <h2>Hi 👋, Imma Helmi Zaki Athallah</h2>
+  <h2>Hi 👋, Im'a Helmi Zaki Athallah</h2>
   <h4>Web Developer</h4>
   <p>Building reliable systems with clean architecture and scalable solutions.</p>
 </div>
@@ -38,7 +38,7 @@
   <a href="https://github.com/Helmi-Zaki-Athallah">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/username-linkedin-kamu">
+  <a href="https://linkedin.com/in/helmi-zaki">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:athallahhelmi2@gmail.com">
