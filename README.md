@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🌟 Top Hero Waving Banner -->
+  <!--  Top Hero Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=240&section=header&text=HELMI%20ZAKI%20ATHALLAH&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Z-Code%20Studio%20%7C%20Lead%20Web%20Engineer%20%7C%20Electrical%20Engineering%20Student&descSize=14&descAlignY=58&descColor=38bdf8&animation=fadeIn" width="100%" alt="Helmi Zaki Athallah Banner" />
 
   <br/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 <table>
   <tr>
@@ -48,10 +48,10 @@
         Halo! Saya <b>Helmi Zaki Athallah</b>, seorang <b>Web Engineer</b> dan mahasiswa <b>Teknik Elektro di Universitas Pamulang (UNPAM)</b>. Saya memiliki dedikasi mendalam dalam merekayasa produk web berkinerja tinggi, arsitektur modern berkecepatan instan, dan antarmuka pengguna yang memikat.
       </p>
       <ul>
-        <li>🚀 <b>Founder & Lead Web Engineer</b> di <a href="https://zcode.agency"><b>Z-Code Studio</b></a> — Mengembangkan website agensi korporat berkelas, company profile, dan aplikasi bisnis berskala modern.</li>
-        <li>🎓 <b>Akademik & Riset:</b> Mempelajari sistem kendali, mikrokontroler, serta integrasi Internet of Things (IoT) dengan antarmuka web modern.</li>
-        <li>⚡ <b>Filosofi Rekayasa:</b> Kecepatan responsif sub-detik (<code>&lt; 0.8s</code>), skor PageSpeed 100, animasi mikro yang halus, dan kode yang bersih serta terstruktur.</li>
-        <li>🎯 <b>Fokus Utama:</b> Fullstack React/Vite/Node.js, Manajemen Basis Data MySQL & Firestore, Solusi WordPress Korporat, dan Pemrograman Mikrokontroler.</li>
+        <li> <b>Founder & Lead Web Engineer</b> di <a href="https://zcode.agency"><b>Z-Code Studio</b></a> — Mengembangkan website agensi korporat berkelas, company profile, dan aplikasi bisnis berskala modern.</li>
+        <li> <b>Akademik & Riset:</b> Mempelajari sistem kendali, mikrokontroler, serta integrasi Internet of Things (IoT) dengan antarmuka web modern.</li>
+        <li> <b>Filosofi Rekayasa:</b> Kecepatan responsif sub-detik (<code>&lt; 0.8s</code>), skor PageSpeed 100, animasi mikro yang halus, dan kode yang bersih serta terstruktur.</li>
+        <li> <b>Fokus Utama:</b> Fullstack React/Vite/Node.js, Manajemen Basis Data MySQL & Firestore, Solusi WordPress Korporat, dan Pemrograman Mikrokontroler.</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
@@ -62,7 +62,7 @@
 
 ---
 
-### 🛠️ Languages & Tech Stack
+###  Languages & Tech Stack
 
 <div align="center">
   <!-- Interactive Dynamic Dark Skill Icons -->
@@ -74,7 +74,7 @@
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
-      <h4>🎨 Frontend & Motion</h4>
+      <h4> Frontend & Motion</h4>
       <ul>
         <li>React.js (18/19)</li>
         <li>Tailwind CSS</li>
@@ -85,7 +85,7 @@
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4>⚙️ Backend & Database</h4>
+      <h4> Backend & Database</h4>
       <ul>
         <li>Node.js & Express</li>
         <li>MySQL (Relational)</li>
@@ -96,7 +96,7 @@
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4>🏢 CMS & Enterprise</h4>
+      <h4> CMS & Enterprise</h4>
       <ul>
         <li>WordPress Core</li>
         <li>Elementor Pro</li>
@@ -107,7 +107,7 @@
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4>⚡ Hardware & Tools</h4>
+      <h4> Hardware & Tools</h4>
       <ul>
         <li>Arduino IDE & C/C++</li>
         <li>Microcontrollers / IoT</li>
@@ -122,7 +122,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <!-- Project 1: Z-Code Studio -->
 <table width="100%">
@@ -133,7 +133,7 @@
       </a>
     </td>
     <td width="58%" valign="top">
-      <h3>⚡ Z-Code Creative Studio</h3>
+      <h3> Z-Code Creative Studio</h3>
       <p><b>High-Converting Web & App Engineering Studio</b></p>
       <p>
         Studio digital spesialis pembuatan landing page korporat luxury, company profile instan, dan aplikasi bisnis modern. Direkayasa dengan arsitektur modern berkecepatan <code>&lt; 0.8s</code>, optimasi SEO menyeluruh, serta micro-interactions berestetika tinggi.
@@ -163,7 +163,7 @@
       </a>
     </td>
     <td width="58%" valign="top">
-      <h3>🤝 IYMPACK.id</h3>
+      <h3> IYMPACK.id</h3>
       <p><b>Portal Organisasi Relawan & Gerakan Kemanusiaan</b></p>
       <p>
         Platform pendaftaran relawan terpadu dan etalase inisiatif kemanusiaan di seluruh Indonesia. Dilengkapi formulir registrasi multi-step, kalender kegiatan, dan integrasi server caching LiteSpeed untuk mengatasi lonjakan trafik pendaftaran nasional.
@@ -196,7 +196,7 @@
       </a>
     </td>
     <td width="58%" valign="top">
-      <h3>💳 Kasir Pintar POS</h3>
+      <h3> Kasir Pintar POS</h3>
       <p><b>Sistem Kasir Cloud Multi-Cabang & Pemantauan Omzet Real-Time</b></p>
       <p>
         Aplikasi Point of Sale berbasis Cloud modern untuk operasional bisnis F&B (Soto Mie Bogor) dan ritel. Dilengkapi pelacakan status terminal kasir live, sinkronisasi omzet antar-outlet otomatis, audit shift kasir, dan kontrol hak akses bertingkat.
@@ -218,7 +218,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+###  GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helmi-Zaki-Athallah&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=1E2638&stroke=38BDF8&ring=818CF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="49%" />
@@ -240,7 +240,7 @@
 
 ---
 
-### 💬 Mari Terhubung & Berkolaborasi!
+###  Mari Terhubung & Berkolaborasi!
 
 Saya selalu terbuka untuk diskusi seputar proyek rekayasa web, arsitektur sistem, inisiatif IoT, maupun kolaborasi kreatif.
 
